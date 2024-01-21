@@ -1,3 +1,4 @@
+#trying to check the functions efficiency
 def win_check(board,mark):
     return( (board[1]==mark and board[2]==mark and board[3]==mark) or
             (board[4]==mark and board[5]==mark and board[6]==mark) 
