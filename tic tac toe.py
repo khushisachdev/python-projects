@@ -74,6 +74,7 @@ def Tic_tac_toe():
             game_on=True
         else:
             game_on=False
+            break
 
 
 
